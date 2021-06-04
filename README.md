@@ -1,5 +1,5 @@
 # myshell
-myshell - Command line interactive shell build in C
+Command line interactive shell build in C
 
 - Once executed, myshell displays a command line interface to the terminal. If executed with a bathfile, myshell should execute each line of the file just like if it received input from the CLI.
 
