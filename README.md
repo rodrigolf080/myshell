@@ -19,9 +19,6 @@ Command line interactive shell build in C
 'rd' - remove empty directory
 'print' - echo arguments to stdout
 
---
-During the production of this project research and learned how to build a basic shell in C 
-
 Resources :
 - https://brennan.io/2015/01/16/write-a-shell-in-c/ 
 - https://www.cs.cornell.edu/courses/cs414/2004su/homework/shell/shell.html 
