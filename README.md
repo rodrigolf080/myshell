@@ -38,7 +38,7 @@ Research:
 - How to execute System commands in C;
 - Read and write to a CLI using C;
 
--- To do:
-. add I/O redirection (>>, <, >) - change stdin and stdout on child forking
-. background execution - allow child processes to run on the bg at the same time as user interacts with parent ndoe
-. add piping - pipe stdout of 1st program to stdin of second, execute them in different processes with fork
+To do:
+ - add I/O redirection (>>, <, >) - change stdin and stdout on child forking
+ - background execution - allow child processes to run on the bg at the same time as user interacts with parent ndoe
+ - add piping - pipe stdout of 1st program to stdin of second, execute them in different processes with fork
